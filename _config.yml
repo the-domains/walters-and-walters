@@ -1,0 +1,28 @@
+name: 'Walters & Walters'
+favicon: null
+layout_spectrum: 0.1746340887621045
+typography_spectrum: 0.1079479013569653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4486285706516355
+  lightness: 0.7301866966299713
+  saturation: 0.6828944156877697
+  rhythmicContrast: 0.686292274389416
+purpose: []
