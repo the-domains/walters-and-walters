@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Walters & Walters]]></title>
         <description><![CDATA[Walters & Walters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walters-and-walters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 21:28:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 22:45:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walters-and-walters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e873397-b76e-4258-8650-217dcecb2803.jpg">]]></description>
+            <link>https://thegrid.ai/walters-and-walters/3fcfd675-4ee9-4291-9733-d68592c6dd27/index.html</link>
+            <guid isPermaLink="false">3fcfd675-4ee9-4291-9733-d68592c6dd27</guid>
+            <pubDate>Wed, 23 Dec 2015 22:45:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weddings Fashion- 2016 ]]></title>
             <description><![CDATA[<article><h1>Weddings Fashion- 2016 </h1><p>Every year around June, I get together with Robyn, the publisher of Weddings to dream up how the next year's fashion is going to look.  Here's the first page.  What do you think?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc8d09b4648682f7f6140a6d626b68e38736c528.jpg"></article>]]></description>
-            <link>undefinedweddings-fashion-2016/index.html</link>
+            <link>https://thegrid.ai/walters-and-walters/weddings-fashion-2016/index.html</link>
             <guid isPermaLink="false">fa209426-a068-4b37-9b4d-470f28ae40b6</guid>
             <pubDate>Wed, 23 Dec 2015 21:27:58 GMT</pubDate>
         </item>
