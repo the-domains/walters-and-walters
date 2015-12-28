@@ -1,6 +1,6 @@
 name: 'Walters & Walters'
 favicon: null
-layout_spectrum: 0.25
+layout_spectrum: 0.51883
 typography_spectrum: 0.50301
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#ffffff'
     - '#8e8e8e'
     - '#d0d0d0'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.7301866966299713
   saturation: 0.75
   rhythmicContrast: 0.686292274389416
